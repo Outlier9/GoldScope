@@ -70,7 +70,7 @@ GoldScope——金价可视化大屏是一款综合性的金价分析与可视�
 - **折线图**：X轴为日期，Y轴为货币汇率。
 - echarts链接：<https://echarts.apache.org/examples/zh/editor.html?c=line-gradient>
 
-![image](https://img-blog.csdnimg.cn/img_convert/7cb60a88c8cb491c5cecae1c5954576f.png)
+![image](https://img-blog.csdnimg.cn/direct/39fb03597cad45a5bfda6e538a5b3b00.png)
 
 ### 5.**金价的季节性波动:**大数据量面积图
 
