@@ -51,46 +51,63 @@ GoldScope——金价可视化大屏是一款综合性的金价分析与可视�
 ### 2.**影响因素分析**：雷达图
 
 - 展示金价受到影响的各种因素，比如供求关系的影响、世界经济周期发展趋势的影响、通货膨胀与利率对比关系的影响、外汇价格变动的影响、政治局势与事件的影响等，以图表形式呈现它们对金价的影响程度和趋势。
-
 - **雷达图**：以图表形式展示不同因素对金价的影响程度，让用户一目了然地了解各个因素的相对重要性。
+- echarts链接：<https://echarts.apache.org/examples/zh/editor.html?c=radar-custom>
 
 ![image](https://img-blog.csdnimg.cn/img_convert/65a3871d127086066aa87bea3ff61358.png)
 
 ### 3.**金店价格比较**：柱状图
 
 - 将不同金店的金价进行对比，以地图或条形图等形式展示金价的变化情况，帮助用户了解金店金价的差异。
-
 - **柱状图**：地图可以直观地展示不同金店的金价情况，而并列柱状图则可以更直观地比较不同金店的金价水平。
+- echarts链接：<https://echarts.apache.org/examples/zh/editor.html?c=watermark>
 
 ![image](https://img-blog.csdnimg.cn/img_convert/b86c405df14cfe520fb5a97581ebfa29.png)
 
 ### 4.**金价与主要货币汇率关系**：渐变折线图
 
 - 展示金价与主要货币（如美元、欧元）的汇率关系。
-
 - **折线图**：X轴为日期，Y轴为货币汇率。
+- echarts链接：<https://echarts.apache.org/examples/zh/editor.html?c=line-gradient>
 
 ![image](https://img-blog.csdnimg.cn/img_convert/7cb60a88c8cb491c5cecae1c5954576f.png)
 
 ### 5.**金价的季节性波动:**大数据量面积图
 
 - 展示金价在一年中不同季节的波动趋势。
-
 - **大数量面积图：**每个季节的金价波动面积展示波动情况
+- echarts链接：https://echarts.apache.org/examples/zh/editor.html?c=area-simple
 
 ![image](https://img-blog.csdnimg.cn/img_convert/78cbad04ede1e6d5387547a7cb830322.png)
 
 ### 6.**每月跌涨情况:虚线柱状图**
 
 - 展示金价在一个月内每天的跌涨情况。
-
 - **虚线柱状图：**当月每天的金价跌涨
+- echarts链接：<https://echarts.apache.org/examples/zh/editor.html?c=pictorialBar-dotted>
 
 ![image](https://img-blog.csdnimg.cn/img_convert/18673db5f557fc38bb3534b333ff8b82.png)
 
 ### 7.**上证指数:**
 
 - 展示黄金期货上证指数
+- echarts链接：<https://echarts.apache.org/examples/zh/editor.html?c=candlestick-sh>
 
 ![image](https://img-blog.csdnimg.cn/img_convert/e1f6a777131f6a5f2cff5a30c702f62f.png)
+
+## 写在最后
+
+当初选择的时候想了很多种可以做的方向和思路，在这里也提供给大家，我挑了其中七个角度实现，感兴趣的也可以自己试试其他的
+
+![image](https://img-blog.csdnimg.cn/direct/31669bf993024864ac9f9ceff6d2799c.png)
+
+
+
+
+
+
+
+
+
+
 
